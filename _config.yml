@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -65,9 +65,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -148,7 +148,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+#avatar: http://en.gravatar.com/userimage/56009247/d991fdebd9d0f0a6d8f4cf8bccce2e1e.jpeg
 
 
 # Table Of Contents in the Sidebar
